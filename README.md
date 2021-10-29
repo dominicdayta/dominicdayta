@@ -1,4 +1,12 @@
-### Hi there 👋
+### Thanks for stopping by!👋
+
+I'm Dominic, professor of Statistics at the School of Statistics, University of the Philippines, Diliman.
+
+- I do consulting work for private firms and research groups, helping build strong, bespoke models and analytics strategies towards organizational/academic goals.
+- I also hold trainings and short courses on the following subjects: Statistical Quality Control, Data Visualization, Introductory Statistical Learning, and Statistical Programming with R.
+- For the most part, code found here are from my research work, but I'm also currently involved in not a few web development projects that I'm looking forward to sharing with the rest of the Dev community.
+
+If you're interested in hiring me, you can send me an email at [contact@dominicdayta.com](mailto: contact@dominicdayta.com). You can also check out more about my work at my website, [dominicdayta.com](https://dominicdayta.com).
 
 <!--
 **dominicdayta/dominicdayta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
